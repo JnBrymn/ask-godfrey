@@ -1,13 +1,4 @@
-# ask-godfrey
-the proto chuck
-
-## why "Godfrey"?
-So many good reasons:
-1. Because the name Chuck was taken.
-2. Because I found Godfrey [in an alphabetical list of Butler names](https://kidadl.com/baby-names/inspiration/brilliant-butler-names-for-your-characters).
-3. Because I think that if my AI personal assistant ever had a real voice, it should sound like Gilbert Gottfried.
-4. Oh wait... those names are spelled differently.
-5. Screw it.
+Warning! By no means should you used this code. It runs arbitrary commands as root. You will pwn your computer. All your bases are belong to us. D̴e̴a̵t̵h̶ ̷a̴n̸d̶ ̴d̴e̴s̶t̸r̴u̵c̴t̵i̴o̴n̵ ̴a̶̤̤̿ȑ̵̺̎ė̷̗̤ ̸̭̂̓ḿ̷̰̽ḭ̴͛̓ṅ̷̳͙ȩ̷̜̔ ̴̩͍̋̃s̵̝̾a̴͓̙͋͆ī̷͓͎t̶́̽͜ḩ̵̰́ ̴͓͂t̸̢͇̘̓͐̈h̵̖̐́̑̀̕ȩ̵̨͓̲͉̥̎ ̴̧̛̘͉̣̹̭̿͋̔̈́̌͘͜͝ͅg̶̩̳̖͌͒̈̏͛̋͝͠r̴̢̨̛̝̻̥̥͍̹̝̅̿ẹ̷̹̞́̊̈́͋́̈́̔a̷̺͉͍̥̩͊̈̀̃͂͜͝ͅt̴̨̝̟͙́̈̓̔̅͋̃͗͋ ̷̡̝̲̪͕̦̽͆̋̈́͐́̚Z̸̙̦̮͉̟̳͈̓̔̄̓́̄͛̚ḁ̶̛̠̣̼̄͝͝ͅļ̵̂̔g̴̻̠̠̮͖͈̩̳̐͊̿̈́o̷̻̦͂̑͛̃̎ͅ.̴̢̮̩̲̝̭̗̾
 
 ## getting started
 - Take a look at example.ipynb, and then trace it back to see how it works.
